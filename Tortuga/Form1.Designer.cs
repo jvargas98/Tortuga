@@ -49,10 +49,10 @@
             // 
             // txtTablero
             // 
-            this.txtTablero.Location = new System.Drawing.Point(90, 128);
+            this.txtTablero.Location = new System.Drawing.Point(62, 112);
             this.txtTablero.Multiline = true;
             this.txtTablero.Name = "txtTablero";
-            this.txtTablero.Size = new System.Drawing.Size(200, 200);
+            this.txtTablero.Size = new System.Drawing.Size(250, 281);
             this.txtTablero.TabIndex = 1;
             // 
             // btnGirarDerecha
@@ -109,7 +109,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(370, 346);
+            this.ClientSize = new System.Drawing.Size(370, 405);
             this.Controls.Add(this.btnImprimir);
             this.Controls.Add(this.btnAvanzar);
             this.Controls.Add(this.btnPlumaAbajo);
